@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Foody</string>
+    <string name="login">Login</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="not_registered_sign_up_here">Not Registered? Sign Up Here!</string>
+    <string name="enter">Enter</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_registered_login_here">Already registered? Login here!</string>
+    <string name="first_name">First Name</string>
+    <string name="first_name_label">First Name:</string>
+    <string name="last_name">Last Name</string>
+    <string name="last_name_label">Last Name:</string>
+    <string name="sign_up_as_a_foody_host">Sign Up as a Foody Host</string>
+    <string name="title_activity_register_as_host">register_as_host</string>
+    <string name="title_activity_register_as_a_host">register_as_a_host</string>
+    <string name="title_activity_login_page">login_page</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="foody_family_app">Foody Family</string>
+    <string name="register_as_consumer">Register As Consumer</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="birthday">Birthday:</string>
+    <string name="sign_up_as_a_consumer">Sign Up as a Consumer</string>
+    <string name="postal_code">Postal Code:</string>
+    <string name="sign_up_enter">Sign Up!</string>
+    <string name="sign_up_as_a_host">Sign Up as a Host!</string>
+    <string name="register_as_a_consumer">Register as a Consumer</string>
+    <string name="register_as_a_host">Register as a Host</string>
+    <string name="foody_family_logo">Foody Family Logo</string>
+    <string name="sign_up_as_a_consumer_">Sign Up as a Consumer!</string>
+</resources>
