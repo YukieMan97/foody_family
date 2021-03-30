@@ -1,4 +1,4 @@
- #[https://devpost.com/software/foody-family-fh2lnr]Foody Family
+ # [https://devpost.com/software/foody-family-fh2lnr] Foody Family
 
 First Android application project created on Android Studio at BC Hacks Hackathon. 
 
